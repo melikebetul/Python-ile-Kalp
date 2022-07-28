@@ -7,7 +7,7 @@ Created on Thu Jul 28 15:20:05 2022
 """
 import turtle
 pen = turtle.Turtle()
-#pen.ht()
+
 
 def curve(t): 
     for i in range(200):
@@ -49,15 +49,12 @@ def heart():
 def txt():
   
     pen.up()
-
     pen.setpos(-68, 95)
-  
     pen.down()
-  
     pen.color('blue')
-  
     pen.write("University4Society", font=(
       "Verdana", 12, "bold"))
+    
 heart()
 txt()
 pen.ht()
