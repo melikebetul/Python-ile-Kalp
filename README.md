@@ -1,4 +1,4 @@
-# Python-ile-Kalp
+# Python ile Kalp Yapımı
 
 Python'da kütüphane kullanımı ve syntax öğrenimi için küçük ve tatlı bir örnek olarak kalp yapalım.
 İlk olarak bir python dosyası oluşturalım ve importlarımızı yaparak başlayalım. Bu projede çizimler için kullanılan Turtle kütüphanesini kullanacağız. 
