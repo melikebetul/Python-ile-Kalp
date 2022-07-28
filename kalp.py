@@ -4,7 +4,6 @@ Created on Thu Jul 28 15:20:05 2022
 
 @author: Melike Betül Çakan
 
-Kaynak: https://www.sifirteknoloji.com/2021/10/python-ile-kalp-gifi.html 
 """
 
 import turtle
